@@ -1,0 +1,92 @@
+/* fonte moserrat 9*/
+html{
+  font-family: 'Montserrat', sans-serif;
+}
+/*modificar o tamnho da imagem 12*/
+.pic1 {
+  width:  883px;
+  height: 374px; 
+  box-shadow: 5px 6px 8px grey;  
+  
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #ec731e;
+    -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+
+}
+/*cambiando o titulo 1*/
+h1{
+  font-weight: black;
+  font-size: 89px;
+  Line-Height: 79px;
+  color: #FFB300;
+}
+/*cambiando o subtitulo 2*/
+.sub{
+  color: black;
+  font-size: 21px;
+  font-weight: bold;
+  text-align:center;
+}
+/*cambiando el primer pagrafo 3*/
+.lista{
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.61;
+  color: black;
+
+  font-size: 21px;
+  font-weight: 600;
+  Line-height: 21px * 1.61px;
+}
+/*colocando a la linha 5*/
+hr{
+    height: 5px;
+    background-color:#999999;
+    line-height: 34px /*nao sei onde tem que ir*/
+  }
+/*modificando en que consiste el plato*/
+.enque{
+  font-size: 21px;
+  font-weight: 600;
+  Line-height: 21px * 1.61px;
+}
+
+/*modificando os ingredientes*/
+.ingred{
+  font-size: 21px;
+  font-weight: 600;
+  Line-height: 21px * 1.61px;
+}
+/*modo de preparacion*/
+.modo{
+  font-size: 21px;
+  font-weight: 600;
+  Line-height: 21px * 1.61px;
+}
+/*modificando el video*/
+.video{
+  width: 883px; 
+  height:497px ;
+  border-radius: 2%; 
+  box-shadow: 5px 6px 8px grey;
+}
+/*justificando todos os pagrafos*/
+p{
+  text-align: justify;
+}
+/*boton volver*/
+.volver{
+
+  font-size: 21px;
+  background-color: #FFB300;
+}
+ h2{
+  color: #FFB300;
+ }
+
+h3{
+  color: #FFB300;
+}
